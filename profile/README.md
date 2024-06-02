@@ -18,7 +18,7 @@ Nelle alpha ci sono i file .tex in corso d'opera. In questi casi:
 3) A stesura finita crea una nuova una release per il .pdf 
 
 ## Risorse utili
-Per la stesura del file tex Overleaf offre la possibilità del link sharing quindi potrebbero formarsi delle sottocommunity che si dedicano a lavori diversi; se invece preferisci lavorare in locale consiglio TexLive, che ha un'interfaccia molto simile ad overleaf ed un compilatore in tempo reale, ma l'installazione di tutti i pacchetti occupa all'incirca 8 GB di hard disk.
+Per la stesura del file tex Overleaf offre la possibilità del link sharing quindi potrebbero formarsi delle sottocommunity che si dedicano a lavori diversi; se invece preferisci lavorare in locale consiglio Texstudio, che ha un'interfaccia molto simile ad overleaf ed un compilatore in tempo reale.
 Per le immagini si consiglia InkScape, che è un software di grafica vettoriale, perciò le immagini create non si sgranano.
 
 ## Contatti
