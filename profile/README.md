@@ -1,5 +1,5 @@
 # Benvenuti sul github della triennale di fisica di Padova
-Salve a tutti: qui potete trovare tutti i file .tex da scritti finora dagli studenti della facoltà di fisica di Padova. 
+Salve a tutti, qui potete trovare tutti i file .tex da scritti finora dagli studenti della facoltà di fisica di Padova. 
 
 ## Istruzioni
 I file sono divisi in due categorie: <b>repository</b> e <b>project</b>. 
