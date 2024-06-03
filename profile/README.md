@@ -23,6 +23,7 @@ Per le immagini si consiglia InkScape, che è un software di grafica vettoriale,
 
 ## Contatti
 emanuele.urso@studenti.unipd.it
+giancarlo.venturato@studenti.unipd.it
 
 <!--
 
