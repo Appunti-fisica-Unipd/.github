@@ -22,7 +22,7 @@ Per la stesura del file tex Overleaf offre la possibilità del link sharing quin
 Per le immagini si consiglia InkScape, che è un software di grafica vettoriale, perciò le immagini create non si sgranano.
 
 ## Contatti
-emanuele.urso@studenti.unipd.it <br> giancarlo.venturato@studenti.unipd.it
+emanuele.urso@studenti.unipd.it <br> giancarlo.venturato@studenti.unipd.it <br> pietro.scapolo@studenti.unipd.it
 
 <!--
 
