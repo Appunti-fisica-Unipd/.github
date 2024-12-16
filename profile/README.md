@@ -15,7 +15,12 @@ Nelle beta sono presenti le immagini ed i file .tex finiti, che necessitano al m
 Nelle alpha ci sono i file .tex in corso d'opera. In questi casi:
 1) Proponi un nuovo progetto alla community ed un'organizzazione degli argomenti (banalmente come li ha trattati il prof va bene);
 2) Inizia la stesura del file .tex ricordandoti di caricare sempre i file a fine lavoro per non perdere le tue modifiche;
-3) A stesura finita crea una nuova una release per il .pdf 
+3) A stesura finita crea una nuova una release per il .pdf
+
+## Caricare i file
+Ai seguinti link trovi le principali istruzioni da conoscere per poter usare GitHub:
+1) Per caricare i file sorgente modificati https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+2) Per modifica la release in pdf, in modo che sia sempre aggiornata all'ultima versione https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository
 
 ## Risorse utili
 Per la stesura del file tex Overleaf offre la possibilità del link sharing quindi potrebbero formarsi delle sottocommunity che si dedicano a lavori diversi; se invece preferisci lavorare in locale consiglio Texstudio, che ha un'interfaccia molto simile ad overleaf ed un compilatore in tempo reale.
