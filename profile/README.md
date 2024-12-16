@@ -2,8 +2,8 @@
 Salve a tutti, qui potete trovare tutti i file .tex da scritti finora dagli studenti della facoltà di fisica di Padova. 
 
 ## Istruzioni
-Le repository sono divise in due categorie: <b>beta</b> e <b>alpha</b>. 
-Se carichi qualcosa, commenta cosa hai fatto e ricorda che i readme sono strumenti molto utili, quindi approfittane.
+Le repository sono divise in due categorie: <b>beta</b> e <b>alpha</b> e trovi questa divisione nei readme di ogni branch delle repository. 
+Se carichi qualcosa, commenta cosa hai fatto e ricorda che i readme sono strumenti molto utili, quindi approfittane. Essi vengono scritti in linguaggio ```markdown``` con estensione ```.md```, un linguaggio di markup davvero semplicissimo.
 
 ### Beta
 Nelle beta sono presenti le immagini ed i file .tex finiti, che necessitano al massimo di poche revisioni finali. in questi casi:
@@ -23,14 +23,3 @@ Per le immagini si consiglia InkScape, che è un software di grafica vettoriale,
 
 ## Contatti
 emanuele.urso@studenti.unipd.it <br> giancarlo.venturato@studenti.unipd.it <br> pietro.scapolo@studenti.unipd.it
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
